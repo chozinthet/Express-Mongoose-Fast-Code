@@ -1,6 +1,6 @@
 # Express-Mongoose-Fast-Code
 
-#server.js
+# server.js
 
 ```
 const express = require('express');
@@ -23,7 +23,7 @@ app.listen(9000, () => {
 
 
 *******
-#Models/Keep.js (Mongoose Model)
+# Models/Keep.js (Mongoose Model)
 
 ```
 const mongoose = require('mongoose');
@@ -39,7 +39,7 @@ module.exports = KeepModel;
 ```
 
 *****
-#routes/api.js (Api Routes)
+# routes/api.js (Api Routes)
 
 ```
 const express = require('express')
