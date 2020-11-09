@@ -1,21 +1,21 @@
 # Express-Mongoose-Fast-Code
 
 - client
- - node_modules
- - public
- - src 
-  - action 
-   - action.js
-  - components
-  - Reducer
-   - noteReducer.js
-   - rootReducer.js
-  - index.js
-  - store.js
+     - node_modules
+     - public
+     - src 
+     - action 
+           - action.js
+     - components
+     - Reducer
+          - noteReducer.js
+          - rootReducer.js
+     - index.js
+     - store.js
 - models
- - Keep.js
+     - Keep.js
 - routes
- - api.js
+     - api.js
 - server.js
 
 ## server.js
