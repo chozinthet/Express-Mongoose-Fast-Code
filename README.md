@@ -39,6 +39,10 @@ app.listen(9000, () => {
 });
 ```
 
+```
+npm install express mongoose body-parser
+```
+
 
 *******
 ## Models/Keep.js (Mongoose Model)
